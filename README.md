@@ -6,4 +6,6 @@ In order to validate the relationships between document templates and variable d
 
 It can be used to delete unused variables and to ensure that all of the required variables exist in the database.
 
-The SQL script works with Microsoft SQL Server and has been tested on both 2008 and 2012 environments.
+Testing
+
+The SQL script works with Microsoft SQL Server and has been tested on both 2008 and 2012 environments. This should work with version 1 of the software onwards.
